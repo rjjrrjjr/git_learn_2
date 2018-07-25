@@ -5,3 +5,4 @@ create default
 =======
 create new branch is quick and simple
 >>>>>>> feature1.1
+git stash
